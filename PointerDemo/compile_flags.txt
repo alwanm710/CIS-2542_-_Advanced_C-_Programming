@@ -1,0 +1,3 @@
+-IC:\Users\moham\OneDrive\Desktop\New folder (2)\C++\Advanced C++\PointerDemo
+-target
+i686-pc-windows-gnu

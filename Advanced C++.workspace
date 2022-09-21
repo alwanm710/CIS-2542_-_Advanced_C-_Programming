@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Advanced C++" Database="" Version="10000">
+  <Project Name="Class_Project" Path="Class_Project/Class_Project.project" Active="No"/>
+  <Project Name="Friends" Path="Friends/Friends.project" Active="No"/>
+  <Project Name="FriendsTest" Path="FriendsTest/FriendsTest.project" Active="No"/>
+  <Project Name="Bag" Path="Bag/Bag.project" Active="No"/>
+  <Project Name="DynamicArray" Path="PointerDemo/PointerDemo.project" Active="No"/>
+  <Project Name="DynamicArray" Path="DynamicArray/DynamicArray.project" Active="No"/>
+  <Project Name="Assignment_3" Path="Assignment_3/Assignment_3.project" Active="No"/>
+  <Project Name="Broken" Path="Assignment_4/Assignment_4.project" Active="No"/>
+  <Project Name="Assignment_4" Path="Assignment_4/Assignment_4.project" Active="No"/>
+  <Project Name="Assignment_5" Path="Assignment_5/Assignment_5.project" Active="No"/>
+  <Project Name="Midterm_Exam" Path="Midterm_Exam/Midterm_Exam.project" Active="No"/>
+  <Project Name="Assignment_6" Path="Assignment_6.1/Assignment_6.project" Active="No"/>
+  <Project Name="Assignment_6" Path="Assignment_6.2/Assignment_6.project" Active="No"/>
+  <Project Name="Assignment_7" Path="Assignment_7.3/Assignment_7.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Class_Project" ConfigName="Debug"/>
+      <Project Name="Class_8/24/2020_(ThrottleTest)" ConfigName="Debug"/>
+      <Project Name="Class_8/24/2020_(LanguageClass)" ConfigName="Debug"/>
+      <Project Name="Class_8/24/2020_(LanguageTest)" ConfigName="Debug"/>
+      <Project Name="Friends" ConfigName="Debug"/>
+      <Project Name="Week_1" ConfigName="Debug"/>
+      <Project Name="FriendsTest" ConfigName="Debug"/>
+      <Project Name="Bag" ConfigName="Debug"/>
+      <Project Name="DynamicArray" ConfigName="Debug"/>
+      <Project Name="DynamicArray" ConfigName="Debug"/>
+      <Project Name="Assignment_3" ConfigName="Debug"/>
+      <Project Name="Broken" ConfigName="Debug"/>
+      <Project Name="Assignment_4" ConfigName="Debug"/>
+      <Project Name="Assignment_5" ConfigName="Debug"/>
+      <Project Name="Assignment_6.1" ConfigName="Debug"/>
+      <Project Name="FuckYou" ConfigName="Debug"/>
+      <Project Name="Assignment_6.1" ConfigName="Debug"/>
+      <Project Name="Assignment_6.1" ConfigName="Debug"/>
+      <Project Name="Assignment_6.1" ConfigName="Debug"/>
+      <Project Name="Assignment_6.2" ConfigName="Debug"/>
+      <Project Name="Assignment_6.2" ConfigName="Debug"/>
+      <Project Name="Assignment_6.1" ConfigName="Debug"/>
+      <Project Name="Assignment_6.1" ConfigName="Debug"/>
+      <Project Name="Assignment_6.2" ConfigName="Debug"/>
+      <Project Name="Midterm_Exam" ConfigName="Debug"/>
+      <Project Name="Assignment_6.1" ConfigName="Debug"/>
+      <Project Name="Assignment_6.2" ConfigName="Debug"/>
+      <Project Name="Assignment_7.1" ConfigName="Debug"/>
+      <Project Name="Assignment_7.2" ConfigName="Debug"/>
+      <Project Name="Assignment_7.3" ConfigName="Debug"/>
+      <Project Name="Assignment_7.3" ConfigName="Debug"/>
+      <Project Name="Assignment_8.1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Class_Project" ConfigName="Release"/>
+      <Project Name="Class_8/24/2020_(ThrottleTest)" ConfigName="Release"/>
+      <Project Name="Class_8/24/2020_(LanguageClass)" ConfigName="Release"/>
+      <Project Name="Class_8/24/2020_(LanguageTest)" ConfigName="Release"/>
+      <Project Name="Friends" ConfigName="Release"/>
+      <Project Name="Week_1" ConfigName="Release"/>
+      <Project Name="FriendsTest" ConfigName="Release"/>
+      <Project Name="Bag" ConfigName="Release"/>
+      <Project Name="DynamicArray" ConfigName="Release"/>
+      <Project Name="DynamicArray" ConfigName="Release"/>
+      <Project Name="Assignment_3" ConfigName="Release"/>
+      <Project Name="Broken" ConfigName="Release"/>
+      <Project Name="Assignment_4" ConfigName="Release"/>
+      <Project Name="Assignment_5" ConfigName="Release"/>
+      <Project Name="Assignment_6.1" ConfigName="Release"/>
+      <Project Name="FuckYou" ConfigName="Release"/>
+      <Project Name="Assignment_6.1" ConfigName="Release"/>
+      <Project Name="Assignment_6.1" ConfigName="Release"/>
+      <Project Name="Assignment_6.1" ConfigName="Release"/>
+      <Project Name="Assignment_6.2" ConfigName="Release"/>
+      <Project Name="Assignment_6.2" ConfigName="Release"/>
+      <Project Name="Assignment_6.1" ConfigName="Release"/>
+      <Project Name="Assignment_6.1" ConfigName="Release"/>
+      <Project Name="Assignment_6.2" ConfigName="Release"/>
+      <Project Name="Midterm_Exam" ConfigName="Release"/>
+      <Project Name="Assignment_6.1" ConfigName="Release"/>
+      <Project Name="Assignment_6.2" ConfigName="Release"/>
+      <Project Name="Assignment_7.1" ConfigName="Release"/>
+      <Project Name="Assignment_7.2" ConfigName="Release"/>
+      <Project Name="Assignment_7.3" ConfigName="Release"/>
+      <Project Name="Assignment_7.3" ConfigName="Release"/>
+      <Project Name="Assignment_8.1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

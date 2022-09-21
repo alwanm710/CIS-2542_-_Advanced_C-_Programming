@@ -1,0 +1,3 @@
+-IC:\Users\moham\OneDrive\Desktop\New folder (2)\C++\Advanced C++\Class_Project
+-target
+i686-pc-windows-gnu
