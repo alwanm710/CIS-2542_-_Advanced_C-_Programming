@@ -1,0 +1,9 @@
+-Ic:\MinGW\include\c++\9.2.0
+-Ic:\MinGW\include\c++\9.2.0\x86_64-w64-mingw32
+-Ic:\MinGW\include\c++\9.2.0\backward
+-Ic:\MinGW\lib\gcc\x86_64-w64-mingw32\9.2.0\include
+-Ic:\MinGW\lib\gcc\x86_64-w64-mingw32\9.2.0\include-fixed
+-Ic:\MinGW\x86_64-w64-mingw32\include
+-IC:\Users\moham\Desktop\C++\C++workspace\Programming_Challenges_10-4
+-target
+x86_64-pc-windows-gnu

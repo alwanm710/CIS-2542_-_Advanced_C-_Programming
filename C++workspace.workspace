@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="C++workspace" Database="" Version="10000">
+  <Project Name="Programming_Challenge_6-4" Path="Programming_Challenge_6-4/Programming_Challenge_6-4.project" Active="No"/>
+  <Project Name="Programming_Challenges_6-14" Path="Programming_Challenges_6-14/Programming_Challenges_6-14.project" Active="No"/>
+  <Project Name="Programming_Challenges_7-3" Path="Programming_Challenges_7-3/Programming_Challenges_7-3.project" Active="No"/>
+  <Project Name="Programming_Challenges_7-10_(FIXED)" Path="Programming_Challenges_7-10_(FIXED)/Programming_Challenges_7-10_(FIXED).project" Active="No"/>
+  <Project Name="Program_7-20" Path="Program_7-20/Program_7-20.project" Active="No"/>
+  <Project Name="Programming_Challenges_8-2" Path="Programming_Challenges_8-2/Programming_Challenges_8-2.project" Active="No"/>
+  <Project Name="Programming_Challenges_8-6" Path="Programming_Challenges_8-6/Programming_Challenges_8-6.project" Active="No"/>
+  <Project Name="Programming_Challenges_9-2" Path="Programming_Challenges_9-2/Programming_Challenges_9-2.project" Active="No"/>
+  <Project Name="Programming_Challenges_9-3" Path="Programming_Challenges_9-3/Programming_Challenges_9-3.project" Active="No"/>
+  <Project Name="Programming_Challenges_10-1" Path="Programming_Challenges_10-1/Programming_Challenges_10-1.project" Active="No"/>
+  <Project Name="Programming_Challenges_10-3" Path="Programming_Challenges_10-3/Programming_Challenges_10-3.project" Active="No"/>
+  <Project Name="Programming_Challenges_10-4" Path="Programming_Challenges_10-4/Programming_Challenges_10-4.project" Active="No"/>
+  <Project Name="Programming_Challenges_13-2" Path="Programming_Challenges_13-2/Programming_Challenges_13-2.project" Active="No"/>
+  <Project Name="Programming_Challenges_15-1" Path="Programming_Challenges_15-1/Programming_Challenges_15-1.project" Active="Yes"/>
+  <Project Name="Programming_Challenges_15-6" Path="Programming_Challenges_15-6/Programming_Challenges_15-6.project" Active="No"/>
+  <Project Name="Practice" Path="Practice/Practice.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Programming_Challenge_6-4" ConfigName="Debug"/>
+      <Project Name="Programming_Challenges_6-14" ConfigName="Debug"/>
+      <Project Name="Programming_Challenges_7-3" ConfigName="Debug"/>
+      <Project Name="Programming_Challenges_7-10.1" ConfigName="Debug"/>
+      <Project Name="Programming_Challenges_7-10.1" ConfigName="Debug"/>
+      <Project Name="Programming_Challenges_7-10_(FIXED)" ConfigName="Debug"/>
+      <Project Name="Program_7-20" ConfigName="Debug"/>
+      <Project Name="Programming_Challenges_8-2" ConfigName="Debug"/>
+      <Project Name="Programming_Challenges_8-6" ConfigName="Debug"/>
+      <Project Name="Programming_Challenges_9-2" ConfigName="Debug"/>
+      <Project Name="Programming_Challenges_9-3" ConfigName="Debug"/>
+      <Project Name="Programming_Challenges_10-1" ConfigName="Debug"/>
+      <Project Name="Programming_Challenges_10-3" ConfigName="Debug"/>
+      <Project Name="Programming_Challenges_10-4" ConfigName="Debug"/>
+      <Project Name="Programming_Challenges_13-2" ConfigName="Debug"/>
+      <Project Name="Employee.h" ConfigName="Debug"/>
+      <Project Name="Employee.cpp" ConfigName="Debug"/>
+      <Project Name="Programming_Challenges_15-1" ConfigName="Debug"/>
+      <Project Name="Programming_Challenges_15-6" ConfigName="Debug"/>
+      <Project Name="Practice" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Programming_Challenge_6-4" ConfigName="Release"/>
+      <Project Name="Programming_Challenges_6-14" ConfigName="Release"/>
+      <Project Name="Programming_Challenges_7-3" ConfigName="Release"/>
+      <Project Name="Programming_Challenges_7-10.1" ConfigName="Release"/>
+      <Project Name="Programming_Challenges_7-10.1" ConfigName="Release"/>
+      <Project Name="Programming_Challenges_7-10_(FIXED)" ConfigName="Release"/>
+      <Project Name="Program_7-20" ConfigName="Release"/>
+      <Project Name="Programming_Challenges_8-2" ConfigName="Release"/>
+      <Project Name="Programming_Challenges_8-6" ConfigName="Release"/>
+      <Project Name="Programming_Challenges_9-2" ConfigName="Release"/>
+      <Project Name="Programming_Challenges_9-3" ConfigName="Release"/>
+      <Project Name="Programming_Challenges_10-1" ConfigName="Release"/>
+      <Project Name="Programming_Challenges_10-3" ConfigName="Release"/>
+      <Project Name="Programming_Challenges_10-4" ConfigName="Release"/>
+      <Project Name="Programming_Challenges_13-2" ConfigName="Release"/>
+      <Project Name="Employee.h" ConfigName="Release"/>
+      <Project Name="Employee.cpp" ConfigName="Release"/>
+      <Project Name="Programming_Challenges_15-1" ConfigName="Release"/>
+      <Project Name="Programming_Challenges_15-6" ConfigName="Release"/>
+      <Project Name="Practice" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
